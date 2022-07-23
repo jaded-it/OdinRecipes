@@ -1,4 +1,4 @@
 # Odin Recipes
-This project is my personal rendition of an assignment for The Odin Project.
+This project represents the my submission for the first shared assignment of The Odin Project, specifically the Foundations portion of the course.
 
-I shall build a basic website that will demonstrate what I've learned up until this point. This site will cover some recipes. Only simple HTML shall be explored, so please don't expect anything pretty at this juncture.
+Whilst the full course covers full stack development this assignment only covers the very basics of html and css. For these reasons it shouldn't be used to gauge the quality of my work.
