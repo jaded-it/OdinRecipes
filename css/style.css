@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(32, 31, 43);
+}
+
+.article {
+    background: rgba(173, 216, 230, 0.322);
+    width: 21cm;
+    height: 27cm;
+    margin: 0.5cm auto;
+    padding: 0.5cm;
+    box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+}
+
+.recipe .article {
+    width: 18cm;
+    padding-left: 2cm;
+    padding-right: 2cm;
+}
+
+h1, .img-container {
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+h1, h4, p, li {
+    color: rgb(255, 248, 240);
+}
+
+a, .index sup {
+    color: darkorange;
+}
