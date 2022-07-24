@@ -11,16 +11,36 @@ body {
     box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
 }
 
-.recipe .article {
+.article {
     width: 18cm;
     padding-left: 2cm;
     padding-right: 2cm;
 }
 
+
 h1, .img-container {
-    text-decoration: underline;
     text-align: center;
     font-weight: bold;
+}
+
+.article .img-container,
+.article h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.article .img-container {
+    margin: -0.5cm -2cm 0;
+    width: 22cm;
+    background-color: rgba(0, 0, 0, 0.666);
+}
+
+.article h1 {
+    width: 22cm;
+    margin: -2px -2cm 0;
+    color: black;
+    background-color: rgba(255, 160, 72, 0.658);
+    padding: 0.15cm 0;
 }
 
 h4 {
@@ -34,3 +54,4 @@ h1, h4, p, li {
 a, .index sup {
     color: darkorange;
 }
+
